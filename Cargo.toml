@@ -1,0 +1,6 @@
+[package]
+name = "process_terminal_commands"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
